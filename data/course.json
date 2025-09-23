@@ -1,0 +1,46 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History"
+    ],
+    [
+      "Social Science",
+      "Urban Studies"
+    ]
+  ],
+  "legacy_uid": "708c706c-0772-57fb-0a0d-41ee3754ce70",
+  "instructors": {
+    "content": [
+      "8fddb57d-2020-b8aa-ab7a-3442a0738ea0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "d208eafb-5d0a-cfdb-5ebd-146eb81c60ca",
+    "website": "11-947-history-and-theory-of-historic-preservation-spring-2007"
+  },
+  "course_title": "History and Theory of Historic Preservation",
+  "course_description": "This class examines the history and theory of historic preservation, focusing on the United States, but with reference to traditions and practices in other countries. The class is designed to examine the largely untold history of the historic preservation movement in this country, and explore how laws, public policies and cultural attitudes shape how we preserve or do not preserve the built environment. The class will give students a grounding in the history, theory and practice of historic preservation, but is not an applied, technical course.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.947",
+  "course_image_thumbnail": {
+    "content": "687145d1-ddf1-559a-aa0a-1c75483f420d",
+    "website": "11-947-history-and-theory-of-historic-preservation-spring-2007"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "e22836f4-62f4-4b71-957a-dd74f2eb0c8e",
+  "site_short_id": "11.947-spring-2007",
+  "site_url_path": "courses/11-947-history-and-theory-of-historic-preservation-spring-2007",
+  "title": "Course Metadata"
+}
