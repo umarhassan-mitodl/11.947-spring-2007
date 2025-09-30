@@ -5,6 +5,8 @@ description: 'Lecture notes about preserving contemporary life: the ugly and ord
 file: /courses/11-947-history-and-theory-of-historic-preservation-spring-2007/907d1cf110c560c7ec544b67f51a9f0d_lect9.pdf
 file_size: 24205
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

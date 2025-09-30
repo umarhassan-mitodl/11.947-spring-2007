@@ -5,6 +5,8 @@ description: 'Lecture notes about the politics of significance II: Poe, McKim an
 file: /courses/11-947-history-and-theory-of-historic-preservation-spring-2007/74b24118b43f73f1627705e470854ead_lect6.pdf
 file_size: 19583
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

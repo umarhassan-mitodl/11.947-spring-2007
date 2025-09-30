@@ -5,6 +5,8 @@ description: 'Lecture notes about preservation and interpretation: the Emily Dic
 file: /courses/11-947-history-and-theory-of-historic-preservation-spring-2007/c6e3b31706c7c4f2208d9a15c640cf8d_lect5.pdf
 file_size: 22868
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
