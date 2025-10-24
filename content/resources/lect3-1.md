@@ -4,8 +4,6 @@ description: 'Lecture notes about preservation in the 20th century: history and 
 file: /courses/11-947-history-and-theory-of-historic-preservation-spring-2007/2cd72e66ef03ecaf1c1ae2d3717fad17_lect3.pdf
 file_size: 45388
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: Lecture notes about the roots of historic preservation in the Unite
 file: /courses/11-947-history-and-theory-of-historic-preservation-spring-2007/6253d9ae8ec9a47f7669b98c2a7380cc_lect2.pdf
 file_size: 23742
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

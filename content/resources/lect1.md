@@ -4,8 +4,6 @@ description: ''
 file: /courses/11-947-history-and-theory-of-historic-preservation-spring-2007/b93ecf1927bbcc939c69641e14443743_lect1.pdf
 file_size: 21036
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
